@@ -1,18 +1,14 @@
 # shrinked-ponytail
 
-Minimal skill for Claude Code agents.
+A 5-line Claude Code skill: ship the smallest safe change that fully solves the request.
 
-## Installation
+## Install
 
-1. Add a `shrinked-ponytail` folder in your project's skills directory.
-2. Place `SKILL.md` in that folder, then commit your changes.
+Copy `.claude/skills/shrinked-ponytail/SKILL.md` into your project's `.claude/skills/shrinked-ponytail/` (this project) or `~/.claude/skills/shrinked-ponytail/` (all projects). Claude Code picks it up automatically.
 
 ## Usage
 
-Use the skill in Claude Code by asking for:
-- `shrinked-ponytail`
-- "smallest safe change"
-- "minimal safe fix"
+Loads on its own for coding tasks. Invoke explicitly with `/shrinked-ponytail`, or by saying "smallest safe change" or "minimal safe fix".
 
 ## Keywords
 

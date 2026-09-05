@@ -1,24 +1,19 @@
 # shrinked-ponytail
 
-Minimal skill for Claude Code agents: `.github/skills/shrinked-ponytail/SKILL.md`.
+Minimal skill for Claude Code agents.
 
 ## Installation
 
-1. Create the skill folder in your Claude Code repository:
-   - `.github/skills/shrinked-ponytail/`
-2. Copy this file into that folder:
-   - `.github/skills/shrinked-ponytail/SKILL.md`
-3. Commit and push the change to your repository.
+1. Add a `shrinked-ponytail` folder in your project's skills directory.
+2. Place `SKILL.md` in that folder, then commit your changes.
 
-## Usage (Claude Code)
+## Usage
 
 Use the skill in Claude Code by asking for:
 - `shrinked-ponytail`
 - "smallest safe change"
 - "minimal safe fix"
 
-The skill guides the agent to ship the smallest safe change that fully solves the request.
+## Keywords
 
-## Keywords (Claude Code / models)
-
-claude code, anthropic, claude, claude sonnet, claude opus, prompt engineering, coding assistant
+claude code, anthropic, claude, claude sonnet, claude opus, coding assistant

@@ -1,3 +1,3 @@
 # shrinked-ponytail
 
-Minimal Copilot skill: `.github/skills/ponytail/SKILL.md`.
+Minimal skill for AI agents: `.github/skills/ponytail/SKILL.md`.
